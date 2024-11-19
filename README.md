@@ -7,6 +7,7 @@ Weather App is a simple and intuitive web application that allows users to searc
 🌈 Dynamic Icons: Shows weather icons based on the current weather conditions.
 📱 Responsive Design: Fully responsive layout for both desktop and mobile devices.
 ⌨️ Keyboard Support: Search by pressing Enter or using the search button.
+
 🛠️ Built With
 Frontend: HTML, CSS, JavaScript
 Backend: Node.js with Express.js
